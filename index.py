@@ -154,5 +154,5 @@ for i in files:
     v = path + "\\" + i
     post(v,comment)
 
-    time.sleep(10) #10 secs gap between posts -- you can reduce this but it is recommended to keep it 10 or more to avoid detection
+    time.sleep(30) #30 secs gap between posts -- you can reduce this but it is recommended to keep it 30 or more to avoid detection
 
