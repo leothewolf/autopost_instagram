@@ -3,9 +3,14 @@
 
 ## Requirments
 
-You need to install Selenium, for doing so open Powershell or Command Prompt window and type and enter:
+First, you need to install Selenium, for doing so open Powershell or Command Prompt window and type and enter:
 ```
 pip install selenium
+```
+
+Second, you need dd_selenium package for drag and drop functionality install it by entering the following command in Powershell or Command Prompt window:
+```
+pip install dd-selenium
 ```
 
 Download chrome webdriver from https://chromedriver.chromium.org/downloads and paste it in your C:/Windows folder after extracting
